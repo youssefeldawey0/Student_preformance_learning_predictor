@@ -111,8 +111,6 @@ Visit the **About the Model** page to understand:
 ```
 student-performance-predictor/
 ├── README.md
-├── requirements.txt
-├── .gitignore
 ├── app.py                                    # Streamlit application
 ├── notebooks/
 │   ├── final_data_preprocessing.ipynb       # Data cleaning & scaling
