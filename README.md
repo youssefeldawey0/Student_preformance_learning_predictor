@@ -150,7 +150,7 @@ This project is provided as-is for educational purposes.
 
 ## 👨‍💻 Author
 
-Built with Python, scikit-learn, and Streamlit for student success analytics.
+Youssef Ahmed
 
 ---
 
